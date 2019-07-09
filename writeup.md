@@ -11,19 +11,19 @@
 * What are the peak hours in which bikes are used during winter months?
     the peak hours for the all 6 months were 8am and 5pm
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-    ![](.\\top10Start.png) Location, lower manhattan
+    ![](top10Start.png) Location, lower manhattan
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-    ![](.\\top10End.png), lower manhattan
+    ![](top10End.png), lower manhattan
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-      ![](.\\low10Start.png) Location, new jersey
+      ![](low10Start.png) Location, new jersey
 * Today, what are th e bottom 10 stations in the city for ending a journey (Based on data, why?)
-    ![](.\\low10End.png), location is spuradic
+    ![](low10End.png), location is spuradic
 * Today, what is the gender breakdown of active participants (Male v. Female)?
-    ![](.\\genderbyMonth.PNG), constomer base seems strongly male
-* How effect![](.\\ive has gender outreach been in increasing female ridership over the timespan?
+    ![](genderbyMonth.PNG), constomer base seems strongly male
+* How effective has gender outreach been in increasing female ridership over the timespan?
     in the last 6months of data there has been a slight increase
 * How does the average trip duration change by age?
-    ![](.\\avgminage.png)
+    ![](avgminage.png)
 * What is the average distance in miles that a bike is ridden?
 there is distance between points but that is not exactly distance
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan? 
