@@ -11,13 +11,13 @@
 * What are the peak hours in which bikes are used during winter months?
     the peak hours for the all 6 months were 8am and 5pm
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-    ![](top10Start.png) Location, lower manhattan
+    ![](top10Start.PNG) Location, lower manhattan
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-    ![](top10End.png), lower manhattan
+    ![](top10End.PNG), lower manhattan
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-      ![](low10Start.png) Location, new jersey
+      ![](low10Start.PNG) Location, new jersey
 * Today, what are th e bottom 10 stations in the city for ending a journey (Based on data, why?)
-    ![](low10End.png), location is spuradic
+    ![](low10End.PNG), location is spuradic
 * Today, what is the gender breakdown of active participants (Male v. Female)?
     ![](genderbyMonth.PNG), constomer base seems strongly male
 * How effective has gender outreach been in increasing female ridership over the timespan?
